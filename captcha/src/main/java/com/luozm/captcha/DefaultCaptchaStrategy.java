@@ -1,13 +1,12 @@
 package com.luozm.captcha;
 
 import android.content.Context;
-import android.graphics.BitmapShader;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.DashPathEffect;
 import android.graphics.Paint;
 import android.graphics.Path;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import java.util.Random;
 

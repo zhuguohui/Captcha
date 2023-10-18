@@ -10,7 +10,7 @@ import android.util.AttributeSet;
  * Created by luozhanming on 2018/1/17.
  */
 
-class TextSeekbar extends android.support.v7.widget.AppCompatSeekBar {
+class TextSeekbar extends androidx.appcompat.widget.AppCompatSeekBar {
 
 
     private Paint textPaint;

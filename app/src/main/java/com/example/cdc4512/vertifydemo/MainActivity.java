@@ -1,8 +1,8 @@
 package com.example.cdc4512.vertifydemo;
 
 import android.os.Bundle;
-import android.support.v4.content.FileProvider;
-import android.support.v7.app.AppCompatActivity;
+import androidx.core.content.FileProvider;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
